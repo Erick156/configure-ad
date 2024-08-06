@@ -32,7 +32,8 @@ Part 7: Test case for Part 6 <br />
   
 <h2>Part 1: (Setup Resources in Azure) Steps: 1 - 18</h2>
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/da8825ae-5c75-4817-9c3f-a6b80893da66)
+![image](https://github.com/user-attachments/assets/653655d3-c396-405c-b545-87a686da619e)
+
 <p>
 Step 1: Open Virtual Machines services
 </p>
