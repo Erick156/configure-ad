@@ -332,7 +332,8 @@ note: This will simulate an environment on Client1 where any user on the domain 
 
 <h2>Part 7: (Test case for Part 6 ) Step: 1 - 6</h2>
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/f0584d9e-94df-408f-aa2e-2da7f13b2288)
+![image](https://github.com/user-attachments/assets/3e4d8717-f16b-4ef9-a5e7-908b13cd832c)
+
 <p>
 Step 1: Log into Domain Controller(ex: DC1) as admin (ex: james_admin)
 </p>
@@ -368,7 +369,8 @@ Step 5: Copy a name from _EMPLOYEES (ex: bes.jom) -> Minimize DC1
 </p>
 <br />
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/f0707613-ad5b-43c6-baa5-35236593ab9c)
+![image](https://github.com/user-attachments/assets/46b2ad2e-2a25-481c-b1d0-266544a97284)
+
 <p>
 Step 6: Log into Client1 with the employee name we have copied (ex: user:bes.jom password:Password1 )
 </p>
