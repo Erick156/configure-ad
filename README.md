@@ -153,13 +153,15 @@ Step 2: Open Windows Defender Firewall with Advanced Security
 </p>
 <br />
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/fa9266ea-4d6d-4c37-8c34-06f7a986949a)
+![image](https://github.com/user-attachments/assets/3eec621b-0f68-4e42-8c64-67f7196a6fe8)
+
 <p>
 Step 3: Click Inbound Rules -> Enable both ICMP Echo Requests on protocol ICMPv4
 </p>
 <br />
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/e28cdc07-d4c1-4894-a583-753bd6744d8b)
+![image](https://github.com/user-attachments/assets/6bef2241-2975-4f52-9a05-1c7c8942515c)
+
 <p>
 Step 4: Minimize DC1 -> RDC into Client1
 </p>
@@ -265,7 +267,8 @@ Step 7: Log out of Domain Controller(currently is labuser), log back in as our n
 
 <h2>Part 5: (Join a client to the domain) Steps: 1 - 8</h2>
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/523ad90a-c430-4fac-94d2-03e1b256f731)
+![image](https://github.com/user-attachments/assets/83e043db-3e87-4ef8-bc77-cf2f36534592)
+
 <p>
 Step 1: Navigate to Domain Controller(ex: DC1) Virtual Machine -> Network settings -> copy private IP ADDRESS  (ex: 10.0.0.6)
 </p>
@@ -274,7 +277,8 @@ note: We are going to join client computer to the domain, and we want to control
 </p>
 <br />
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/feea5da7-2fa3-4e4b-bf8b-bc06c5c29040)
+![image](https://github.com/user-attachments/assets/2ede340e-69dc-464a-a274-9b4bccdc72e6)
+
 <p>
 Step 2: Navigate to the Client1 Virtual Machine -> Network settings -> click Network interface (ex: dc1305)
 </p>
