@@ -39,13 +39,15 @@ Step 1: Open Virtual Machines services
 </p>
 <br />
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/58fe9355-f4b6-4f06-8f99-dd56ed76c627)
+![image](https://github.com/user-attachments/assets/5cd78f3c-6fb6-475d-9026-9eb3644567f1)
+
 <p>
 Step 2: Click Create Azure virtual machine
 </p>
 <br />
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/91e37451-2b63-44a5-a40b-0806ae632ab2)
+![image](https://github.com/user-attachments/assets/cc15826a-e638-4195-8d42-ee489d556445)
+
 <p>
 Step 3: Create new Resource Group and choose a name. (ex: activeDirectory)
 </p>
