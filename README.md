@@ -132,7 +132,9 @@ Step 17: Change the Private IP address from dynamic to static (ex: 10.0.0.4). Cl
 </p>
 <br />
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/c560e002-a94f-4adf-a642-f3e2f4adddef)
+![image](https://github.com/user-attachments/assets/9beee212-f014-4c36-9443-f03f59216355)
+
+
 <p>
 Step 18: Navigate to Virtual Machines. Ensure Both Client1 and DC1 are in the same Virtual network/subnet (ex: DC1-vnet/default)
 </p>
@@ -142,7 +144,8 @@ Step 18: Navigate to Virtual Machines. Ensure Both Client1 and DC1 are in the sa
 
 <h2>Part 2: (Ensure Connectivity between the client and Domain Controller) Steps: 1 - 5</h2>
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/edd0cb1c-6a92-4418-887d-bb6d440a522f)
+![image](https://github.com/user-attachments/assets/7f5d5499-7863-4a30-8d6c-cbb5f64f01df)
+
 <p>
 Step 1: If we log in to Client1 and ping DC1, it will fail. We need to log in to our Domain Controller(DC1) and enable ICMPv4 on the local windows Firewall. Copy IP address from DC1 (ex:74.235.208.187) -> Use this to RDC into DC1 -> Enter credentials (ex:labuser/password)
 </p>
