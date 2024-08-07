@@ -53,7 +53,8 @@ Step 3: Create new Resource Group and choose a name. (ex: activeDirectory)
 </p>
 <br />
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/ff915c89-1138-4c56-b9ac-8e3ca095049e)
+![image](https://github.com/user-attachments/assets/01c9cd36-475b-4578-bd12-646a13c076f8)
+
 <p>
 Step 4: Enter information, ie: Virtual machine name that we will use for our Domain Controller (ex DC1) image: Windows Server 2022 Datacenter: Azure Edition.
 </p>
@@ -65,19 +66,22 @@ Step 5: Choose at least 2 vcpus. Enter a Username/password (ex: labuser). Check 
 </p>
 <br />
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/710441f6-cbed-4a08-8575-48a0401e1269)
+![image](https://github.com/user-attachments/assets/4a61b4dd-2daf-49af-903c-5c309c4abe47)
+
 <p>
 Step 7: Click Next: Networking 
 </p>
 <br />
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/9b7f2e9f-99a1-4efd-874b-bed49500e690)
+![image](https://github.com/user-attachments/assets/87ac07fb-10f9-4afa-8874-59d12ccb1fe7)
+
 <p>
 Step 8: Click Review + Create -> Click Create
 </p>
 <br />
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/296f7e92-e69c-48a3-a1df-960b246465df)
+![image](https://github.com/user-attachments/assets/328c6f81-1197-4f31-aa21-aa0545114861)
+
 <p>
 Step 9: Navigate back to Virtual Machines -> Create -> Azure virtual machine.  We are going to create our client computer that will join the domain
 </p>
