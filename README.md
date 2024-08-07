@@ -87,7 +87,8 @@ Step 9: Navigate back to Virtual Machines -> Create -> Azure virtual machine.  W
 </p>
 <br />
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/1b5053c6-1a75-4274-9004-ed77a21a47e6)
+![image](https://github.com/user-attachments/assets/ff0595c9-2290-4491-92ea-bcb1e76ec66a)
+
 ![image](https://github.com/jameswsm/configure-ad/assets/170709350/c178f7a2-522c-438d-a437-23e5e855064b)
 <p>
 Step 10: Fill out info ex: Choose RG we created (ex: activeDirectory). Enter name (ex: Client1). Click Review + Create -> Next -> Next: Networking
