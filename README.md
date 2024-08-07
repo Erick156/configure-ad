@@ -95,31 +95,36 @@ Step 10: Fill out info ex: Choose RG we created (ex: activeDirectory). Enter nam
 </p>
 <br />
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/afa02bbb-fe8c-4464-9ad3-4380ef8d7c72)
+![image](https://github.com/user-attachments/assets/7ef3607b-ec0d-4cc9-a268-3da797229119)
+
 <p>
 Step 11: Virtual Network: Choose the same virtual network as the Domain Controller. (should have been created when we created the DC). Click Review + create -> Create
 </p>
 <br />
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/1a14975e-f1d7-4fda-87cd-5282f489a462)
+![image](https://github.com/user-attachments/assets/9c1d3495-88d0-4ea4-8304-378e1e3f7063)
+
 <p>
 Step 12: Navigate to Virtual machines -> Click Domain Controller (ex: DC1)
 </p>
 <br />
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/af0e36e5-2e4a-449d-a844-18d296d09f1a)
+![image](https://github.com/user-attachments/assets/c5346c87-cdaa-4398-871a-7fcc7ef0444c)
+
 <p>
 Step 13: Navigate on the left to Networking -> Network Settings
 </p>
 <br />
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/af0e36e5-2e4a-449d-a844-18d296d09f1a)
+![image](https://github.com/user-attachments/assets/e5d48043-3c2b-4a52-9e00-ce4a5a03a421)
+
 <p>
 Step 14: When we have a server (ex: DC1) that will offer services to another computer, (ex: we have a domain controller offering active directory services), in these cases we DONT want the ip address to change aka do not get it from DHCP, so we are gonna change domain controller virtual nic ip address from dynamic to static. Click on Network interface (ex: dc1190)
 </p>
 <br />
 
-![image](https://github.com/jameswsm/configure-ad/assets/170709350/58d5d1ca-c4e4-4165-b1ed-e4d35c5f20e3)
+![image](https://github.com/user-attachments/assets/19a800e4-df28-4abe-83e9-cafa8036c468)
+
 <p>
 Step 15: Click IP configurations.
 </p>
